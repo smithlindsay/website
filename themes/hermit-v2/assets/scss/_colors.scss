@@ -1,5 +1,5 @@
 // Default Colors for site
-$pine-green: #018472;
+$med-green: #718D54;
 $bright-grey: #eeeeee;
 $white: #ffffff;
 $davys-grey : #494f5c;
@@ -44,16 +44,16 @@ $pinned-posts-group-border-bottom: $css-grey !default;
 
 // Elements of the site which are expected to follow accent color
 // In this current form, `accentColor` in hugo.toml will have higher precedence than these declarations
-$aTag-mixin-a-box-shadow: $pine-green !default; // Box shadow for Mixin "aTag" used by figure element
-$aTag-mixin-a-hover-box-shadow: $pine-green !default; // Box shadow on hover for Mixin "aTag" used by figure element
-$content-anchor-hover: $pine-green !default; // Anchor text hover color
-$post-description-a-hover-border-bottom: $pine-green !default; // Anchor text on hover for post description in list
-$tableofcontents-a-hover-border-bottom: $pine-green !default; // Table of Contents on hover
-$scrolltotop-arrow: $pine-green !default; // Scroll yo Top arrow color
-$typewriter: $pine-green !default; // Typewriter carat color
-$footnote-ref-hover-background: $pine-green !default; // Footnote reference on hover
-$marked-background: $pine-green !default; // Marked text background color
-$inserted-text-underline: $pine-green !default; // Inserted text underline color
+$aTag-mixin-a-box-shadow: $med-green !default; // Box shadow for Mixin "aTag" used by figure element
+$aTag-mixin-a-hover-box-shadow: $med-green !default; // Box shadow on hover for Mixin "aTag" used by figure element
+$content-anchor-hover: $med-green !default; // Anchor text hover color
+$post-description-a-hover-border-bottom: $med-green !default; // Anchor text on hover for post description in list
+$tableofcontents-a-hover-border-bottom: $med-green !default; // Table of Contents on hover
+$scrolltotop-arrow: $med-green !default; // Scroll yo Top arrow color
+$typewriter: $med-green !default; // Typewriter carat color
+$footnote-ref-hover-background: $med-green !default; // Footnote reference on hover
+$marked-background: $med-green !default; // Marked text background color
+$inserted-text-underline: $med-green !default; // Inserted text underline color
 
 // Footnote
 $footnote-ref-background: $japanese-indigo !default;
@@ -86,7 +86,7 @@ $text-select: $css-grey !default;
 $marked-text:$bright-grey !default;
 
 // Link text color on hover
-$a-hover: $white !default;
+$a-hover: $dark-green !default;
 
 // 404 Page
 $btn-404-a-border: $bright-grey !default;

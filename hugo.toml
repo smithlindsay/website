@@ -5,6 +5,7 @@
 # Open Issue or Pull Request at https://github.com/1bl4z3r/hermit-V2
 
 baseURL = "http://localhost:1313"
+contentDir = 'en/'
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 theme = "hermit-v2"
@@ -16,20 +17,10 @@ enableRobotsTXT = true ## set to true to enable inbuilt robots.txt
 #    [languages.en.params]
 #      homeSubtitle = "CHANGE ME"
 #    weight = 1
-#  [languages.fr]
-#    title = 'CHANGE ME(FR)'
-#    [languages.fr.params]
-#      homeSubtitle = "CHANGE ME"
-#    weight = 2
-#  [languages.it]
-#    title = 'CHANGE ME(IT)'
-#    [languages.it.params]
-#      homeSubtitle = "CHANGE ME"
-#    weight = 3
  
 languageCode = "en-us"
 
-title = "Sandy's Stories"
+title = "Lindsay Smith"
 enableGitInfo = true
 
 pygmentsCodefences  = true
@@ -56,7 +47,7 @@ expiryDate = ["expiryDate"]
 
 [params.author]
   name = "Lindsay Smith"
-  about = "Lindsay Smith"
+  about = ""
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -88,7 +79,7 @@ expiryDate = ["expiryDate"]
   description = "Lindsay Smith"
   # images = [""]
   themeColor = "#0E1A01"
-  accentColor = "#f2f7eb"
+  accentColor = ""
 
   homeSubtitle = "I study the physics of ML/AI"
   footerCopyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0 </a>'
@@ -107,7 +98,7 @@ expiryDate = ["expiryDate"]
   readTime = true
   readTimeSeparator = "CHANGE ME READ TIME"
   # legacyLayout = false
-  shareSocial = true
+  shareSocial = false
   # googleTagManager = "GTM-XXXXXXXX"
   # tagSymbol = "#"
   # categorySymbol = "⊲"
