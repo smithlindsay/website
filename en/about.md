@@ -34,4 +34,4 @@ Previously, I was an undergrad at the University of Pennsylvania where I majored
 
 &nbsp;
 
-Before undergrad, I worked on a project at WSU designing a flux spectrometer for the DUNE collaboration at Fermilab, advised by Holger Meyer.
+Before undergrad, I worked on a project at WSU designing a flux spectrometer for the [DUNE](https://lbnf-dune.fnal.gov/) collaboration at Fermilab, advised by Holger Meyer.
