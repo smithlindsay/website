@@ -5,8 +5,6 @@ draft: false
 comments: false
 images:
 ---
-# About Me
-
 I am a 3rd-year physics PhD candidate at Princeton University. My advisors are William Bialek (Princeton) and David Schwab (CUNY).
 
 I study learning and abstraction in artificial neural networks through the lens of physics and complex systems.
@@ -15,8 +13,8 @@ My current research in machine learning/AI includes projects in ***mechanistic i
 
 You can reach me by email at lindsay.smith@princeton (dot) edu.
 
-&nbsp;
-# Papers
+
+## Papers
 
 Specialization-generalization transition in exemplar-based in-context learning *(Under review @ ICML 2025)*
 
@@ -28,7 +26,7 @@ Specialization-generalization transition in exemplar-based in-context learning *
 *(**Chaos** journal). Selected as an Editor’s Pick and publicized with a [Scilight press summmary](https://doi.org/10.1063/10.0009079)*.
 
 
-# Background
+## Background
 
 Previously, I was an undergrad at the University of Pennsylvania where I majored in physics (with honors), minored in mathematics and French and Francophone studies, and graduated cum laude. My undergrad research advisor was Dani Bassett, and I researched human white matter brain networks, the human perception of the stars in the night sky, and abstraction in reservoir computers (a type of RNN).
 
