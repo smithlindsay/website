@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2025-04-30T12:31:41-05:00
+date: 2025-02-04T00:39:41-05:00
 draft: false
 comments: false
 images:
@@ -28,3 +28,7 @@ Previously, I was an undergrad at the University of Pennsylvania where I majored
 
 
 Before undergrad, I worked on a project at WSU designing a flux spectrometer for the [DUNE](https://lbnf-dune.fnal.gov/) collaboration at Fermilab, advised by Holger Meyer.
+
+&nbsp;
+## CV
+[Link to CV](https://drive.google.com/file/d/1P3Bo_ctGtdw2OPS6ys-JLNmjLZTWaYiY/view?usp=drive_link)
