@@ -12,7 +12,7 @@ My current research in machine learning/AI includes projects in ***mechanistic i
 &nbsp;
 ## Papers
 
-Specialization-generalization transition in exemplar-based in-context learning *(Under review @ ICML 2025)*
+[Specialization-generalization transition in exemplar-based in-context learning](https://openreview.net/forum?id=YKyza9lrv4) *(ICML 2025)*
 
 [Model Recycling: Model component reuse to promote in-context learning](https://openreview.net/forum?id=vWSu8nEURM) *(NeurIPS 2024 SciForDL Workshop)*
 
@@ -31,4 +31,4 @@ Before undergrad, I worked on a project at WSU designing a flux spectrometer for
 
 &nbsp;
 ## CV
-[Link to CV](https://drive.google.com/file/d/1P3Bo_ctGtdw2OPS6ys-JLNmjLZTWaYiY/view?usp=drive_link)
+[Link to CV](https://drive.google.com/file/d/1rssStbzMHomH6ybb5M8dFrKYNJRMjZ6W/view?usp=sharing)
