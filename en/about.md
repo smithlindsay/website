@@ -5,14 +5,14 @@ draft: false
 comments: false
 images:
 ---
-I am a 3rd-year physics PhD candidate at Princeton University. My advisors are William Bialek (Princeton) and David Schwab (CUNY). I study learning and abstraction in artificial neural networks through the lens of physics and complex systems. I'm happy to chat via email at lindsay.smith@princeton (dot) edu.
+I am a 4th-year physics PhD candidate at Princeton University. My advisors are William Bialek (Princeton) and David Schwab (CUNY). I study learning and abstraction in artificial neural networks through the lens of physics and complex systems. I'm happy to chat via email at lindsay.smith@princeton (dot) edu.
 
 My current research in machine learning/AI includes projects in ***mechanistic interpretability, meta-learning, in-context learning, and LLM multi-agent interactions***.
 
 &nbsp;
 ## Papers
 
-[Specialization-generalization transition in exemplar-based in-context learning](https://openreview.net/forum?id=YKyza9lrv4) *(ICML 2025)*
+[When can in-context learning generalize out of task distribution?](https://arxiv.org/abs/2506.05574) *(ICML 2025)*
 
 [Model Recycling: Model component reuse to promote in-context learning](https://openreview.net/forum?id=vWSu8nEURM) *(NeurIPS 2024 SciForDL Workshop)*
 
@@ -31,4 +31,4 @@ Before undergrad, I worked on a project at WSU designing a flux spectrometer for
 
 &nbsp;
 ## CV
-[Link to CV](https://drive.google.com/file/d/1rssStbzMHomH6ybb5M8dFrKYNJRMjZ6W/view?usp=sharing)
+[Link to CV](https://drive.google.com/file/d/1kyuyqB95V86pGjKmyedjZunYz22ep2Xe/view?usp=sharing)
