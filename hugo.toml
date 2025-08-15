@@ -76,12 +76,13 @@ expiryDate = ["expiryDate"]
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
-  description = "Lindsay Smith"
+  description = "Lindsay Smith - Princeton PhD student"
   # images = [""]
   themeColor = "#0E1A01"
   accentColor = ""
 
   homeSubtitle = "I study the physics of ML/AI"
+  homeSubsubtitle = "Princeton PhD student"
   footerCopyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0 </a>'
   # footerHideThemeName = false
   # bgImg = ""

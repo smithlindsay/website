@@ -471,10 +471,20 @@ p.img-404 {
 
 #home-subtitle {
   margin-top: 0;
+  margin-bottom: 1em;
+  text-align: center;
+  line-height: normal;
+  font-size: .8em;
+  font-style: italic;
+  opacity: .9;
+}
+
+#home-subsubtitle {
+  margin-top: 0;
   margin-bottom: 1.5em;
   text-align: center;
   line-height: normal;
-  font-size: .7em;
+  font-size: .6em;
   font-style: italic;
   opacity: .9;
 }
@@ -1038,6 +1048,9 @@ a.footnote-ref {
   #home-subtitle {
     font-size: 0.5em;
   }
+  #home-subsubtitle {
+    font-size: 0.4em;
+  }
 }
 
 .human{
@@ -1050,7 +1063,7 @@ a.footnote-ref {
   #home-subtitle{
     overflow: hidden; /* Ensures the content is not revealed until the animation */
     border-right: .5em solid $typewriter; /* The typwriter cursor */
-    white-space: nowrap; /* Keeps the content on a single line */
+    // white-space: nowrap; /* Keeps the content on a single line */
     margin: 0 auto 1.5em auto; /* Gives that scrolling effect as the typing happens */
     // letter-spacing: .100em; /* Adjust as needed */
     animation: typing 5s steps({{ strings.RuneCount .Site.Params.homeSubtitle }}, end),blink-caret .75s linear 5.1s infinite;

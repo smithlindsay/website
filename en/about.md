@@ -12,7 +12,7 @@ I am a 4th-year physics PhD candidate and NSF GRFP fellow at Princeton Universit
 
 My current research in machine learning/AI includes projects in ***mechanistic interpretability, in-context learning, and LLM multi-agent interactions***.
 
-I'm also investigating chain-of-thought injections as a control method for AI safety for the [MARS 3.0 research program](https://www.cambridgeaisafety.org/mars). More information on our project can be found on the [Geodesic Research website](https://www.geodesicresearch.org/research).
+I'm also investigating chain-of-thought injections as a control method for AI safety in the [MARS 3.0 research program](https://www.cambridgeaisafety.org/mars). More information on our project can be found on the [Geodesic Research website](https://www.geodesicresearch.org/research).
 
 I'm happy to chat via email at lindsay.smith@princeton (dot) edu.
 
