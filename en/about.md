@@ -5,7 +5,7 @@ draft: false
 comments: false
 images:
 ---
-{{< figure src="/en/IMG_0659.jpeg" alt="IMG_0659.jpeg" class="left" width=200px >}}
+{{< figure src="/IMG_0659.jpeg" alt="IMG_0659.jpeg" class="left" width=200px >}}
 <!-- ![alt](/en/IMG_0659.jpeg) -->
 
 I am a 4th-year physics PhD candidate and NSF GRFP fellow at Princeton University. My advisors are William Bialek (Princeton) and David Schwab (CUNY). I study learning and abstraction in artificial neural networks through the lens of physics and complex systems.
