@@ -5,9 +5,14 @@ draft: false
 comments: false
 images:
 ---
-I am a 4th-year physics PhD candidate at Princeton University. My advisors are William Bialek (Princeton) and David Schwab (CUNY). I study learning and abstraction in artificial neural networks through the lens of physics and complex systems. I'm happy to chat via email at lindsay.smith@princeton (dot) edu.
+{{< figure src="/en/IMG_0659.jpeg" alt="IMG_0659.jpeg" class="left" width=200px >}}
+<!-- ![alt](/en/IMG_0659.jpeg) -->
 
-My current research in machine learning/AI includes projects in ***mechanistic interpretability, meta-learning, in-context learning, and LLM multi-agent interactions***.
+I am a 4th-year physics PhD candidate and NSF GRFP fellow at Princeton University. My advisors are William Bialek (Princeton) and David Schwab (CUNY). I study learning and abstraction in artificial neural networks through the lens of physics and complex systems.
+
+My current research in machine learning/AI includes projects in ***mechanistic interpretability, in-context learning, and LLM multi-agent interactions***.
+
+I'm happy to chat via email at lindsay.smith@princeton (dot) edu.
 
 &nbsp;
 ## Papers
