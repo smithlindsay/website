@@ -38,4 +38,4 @@ Before undergrad, I worked on a project at WSU designing a flux spectrometer for
 
 &nbsp;
 ## CV
-[Link to CV](https://drive.google.com/file/d/1kyuyqB95V86pGjKmyedjZunYz22ep2Xe/view?usp=sharing)
+[Link to CV](https://drive.google.com/file/d/1MZHC1afIzBjCURIMUkMrOs44R-zxrr61/view?usp=sharing)
