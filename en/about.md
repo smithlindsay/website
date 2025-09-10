@@ -19,14 +19,23 @@ I'm happy to chat via email at lindsay.smith@princeton (dot) edu.
 &nbsp;
 ## Papers
 
-[When can in-context learning generalize out of task distribution?](https://arxiv.org/abs/2506.05574) *(ICML 2025)*
+[ALICE: An Interpretable Neural Architecture for Generalization in Substitution Ciphers](https://arxiv.org/abs/2509.07282)
+> *(Under review)*\
+> [Project page + demo](https://jshen.net/alice)
 
-[Model Recycling: Model component reuse to promote in-context learning](https://openreview.net/forum?id=vWSu8nEURM) *(NeurIPS 2024 SciForDL Workshop)*
 
-[Specialization-generalization transition in exemplar-based in-context learning](https://openreview.net/forum?id=D1ui5QwHqF) *(NeurIPS 2024 SciForDL Workshop)*
+[When can in-context learning generalize out of task distribution?](https://arxiv.org/abs/2506.05574)
+> *(ICML 2025)*
+
+[Model Recycling: Model component reuse to promote in-context learning](https://openreview.net/forum?id=vWSu8nEURM)
+> *(NeurIPS 2024 SciForDL Workshop)*
+
+[Specialization-generalization transition in exemplar-based in-context learning](https://openreview.net/forum?id=D1ui5QwHqF)
+> *(NeurIPS 2024 SciForDL Workshop)*
 
 [Learning continuous chaotic attractors with a reservoir computer](https://doi.org/10.1063/5.0075572)
-*(**Chaos** journal). Selected as an Editor’s Pick and publicized with a [Scilight press summmary](https://doi.org/10.1063/10.0009079)*.
+> *(**Chaos** journal)\
+> Selected as an Editor’s Pick and publicized with a [Scilight press summmary](https://doi.org/10.1063/10.0009079)*.
 
 &nbsp;
 ## Background
@@ -38,4 +47,4 @@ Before undergrad, I worked on a project at WSU designing a flux spectrometer for
 
 &nbsp;
 ## CV
-[Link to CV](https://drive.google.com/file/d/1W_93iCsBtMwvGxs3Wq9kyKxmXtH_QK0P/view?usp=sharing)
+[Link to CV](/pdfs/cv_lindsaysmith_sep25.pdf)
