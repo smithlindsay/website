@@ -8,7 +8,7 @@ images:
 {{< figure src="/IMG_0659.jpeg" alt="IMG_0659.jpeg" class="left" width=200px >}}
 <!-- ![alt](/en/IMG_0659.jpeg) -->
 
-I am a 4th-year physics PhD candidate and NSF GRFP fellow at Princeton University. My advisors are William Bialek (Princeton) and David Schwab (CUNY). I study learning and abstraction in artificial neural networks through the lens of physics and complex systems.
+I am a 4th-year physics PhD candidate and NSF GRFP fellow at Princeton University. My advisors are William Bialek (Princeton) and David Schwab (CUNY). My research focus is studying the **science of AI**, drawing on my background in physics and complex systems.
 
 My current research in machine learning/AI includes projects in ***mechanistic interpretability, in-context learning, and LLM multi-agent interactions***.
 
@@ -34,8 +34,8 @@ I'm happy to chat via email at lindsay.smith@princeton (dot) edu.
 > *(NeurIPS 2024 SciForDL Workshop)*
 
 [Learning continuous chaotic attractors with a reservoir computer](https://doi.org/10.1063/5.0075572)
-> *(**Chaos** journal)\
-> Selected as an Editor’s Pick and publicized with a [Scilight press summmary](https://doi.org/10.1063/10.0009079)*.
+> *(**Chaos** journal, 2022)\
+> Selected as an Editor’s Pick and publicized with a [Scilight press summary](https://doi.org/10.1063/10.0009079)*.
 
 &nbsp;
 ## Background
