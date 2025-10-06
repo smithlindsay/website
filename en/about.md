@@ -14,7 +14,7 @@ My current research in machine learning/AI includes projects in ***mechanistic i
 
 I'm also investigating chain-of-thought injections as a control method for AI safety in the [MARS 3.0 research program](https://www.cambridgeaisafety.org/mars). More information on our project can be found on the [Geodesic Research website](https://www.geodesicresearch.org/research).
 
-I'm happy to chat via email at lindsay.smith@princeton (dot) edu.
+I'm happy to chat via email at lindsay.smith @ princeton . edu.
 
 &nbsp;
 ## Papers
@@ -40,10 +40,10 @@ I'm happy to chat via email at lindsay.smith@princeton (dot) edu.
 &nbsp;
 ## Background
 
-Previously, I was an undergrad at the University of Pennsylvania where I majored in physics (with honors), minored in mathematics and French and Francophone studies, and graduated cum laude. My undergrad research advisor was Dani Bassett, and I researched human white matter brain networks, the human perception of the stars in the night sky, and abstraction in reservoir computers (a type of RNN).
+Previously, I was an undergraduate at the University of Pennsylvania where I majored in physics (with honors), minored in mathematics and French and Francophone studies, and graduated cum laude. My undergrad research advisor was Dani Bassett, and I researched human white matter brain networks, the human perception of the stars in the night sky, and abstraction in reservoir computers (a type of RNN).
 
 
-Before undergrad, I worked on a project at WSU designing a flux spectrometer for the [DUNE](https://lbnf-dune.fnal.gov/) collaboration at Fermilab, advised by Holger Meyer.
+Before undergrad, I worked on a project at WSU designing a flux spectrometer for the [Deep Underground Neutrino Experiment (DUNE)](https://lbnf-dune.fnal.gov/) at Fermilab, advised by Holger Meyer.
 
 &nbsp;
 ## CV
